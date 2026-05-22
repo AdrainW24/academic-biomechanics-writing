@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic Biomechanics Writing"
+  short_description: "Sports biomechanics writing assistant."
+  default_prompt: "Use $academic-biomechanics-writing to plan, critique, revise, or prepare sports biomechanics academic writing."
+
+policy:
+  allow_implicit_invocation: true
